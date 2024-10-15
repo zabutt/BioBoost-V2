@@ -42,4 +42,4 @@ if st.button('Generate Bio'):
         st.experimental_set_query_params(bio=generated_bio)
 
 st.markdown('---')
-st.markdown('Created with ❤️ by BioBoost')
+st.markdown('Created with ❤️ by BioBoost [Zulfiqar Ahmed]')
